@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">WAIT APP</string>
+        <string name="hint_email">E-mail</string>
+        <string name="hint_senha">password</string>
+        <string name="text_button_entrar">To enter</string>
+        <string name="text_tela_cadastro">Don't have an account? Register!</string>
+        <string name="hint_name">Full Name</string>
+        <string name="text_cadastro">REGISTER</string>
+        <string name="text_cpf">SSN</string>
+        <string name="hint_data">Date of Birth</string>
+        <string name="hint_senhaConfirmar">Confirm Password</string>
+        <string name="text_cadastrese">REGISTER</string>
+        <string name="text_BemVindo">Welcome</string>
+        <string name="text_Procura"> Ehat are you looking for? </string>
+        <string name="Text_Ajuda"> Help </string>
+        <string name="Text_Exames"> Exams </string>
+        <string name="Text_Consulta"> queries</string>
+        <string name="Text_hospitais"> hospitals </string>
+</resources>
